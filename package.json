@@ -1,0 +1,25 @@
+{
+  "name": "clean-it",
+  "version": "1.0.0",
+  "description": "cleaner react app for beginner",
+  "main": "index.js",
+  "bin": {
+    "cleanit": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azadDsync/clean-it.git"
+  },
+  "keywords": [
+    "cleanit"
+  ],
+  "author": "domendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azadDsync/clean-it/issues"
+  },
+  "homepage": "https://github.com/azadDsync/clean-it#readme"
+}
